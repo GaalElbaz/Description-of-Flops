@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Jan 30 13:09:02 2024
+# Process ID: 6084
+# Current directory: C:/intelFPGA/FPGAprojects/SystemVerilogDescriptionOfFlops/dff/dff.runs/synth_1
+# Command line: vivado.exe -log DFF_Test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source DFF_Test.tcl
+# Log file: C:/intelFPGA/FPGAprojects/SystemVerilogDescriptionOfFlops/dff/dff.runs/synth_1/DFF_Test.vds
+# Journal file: C:/intelFPGA/FPGAprojects/SystemVerilogDescriptionOfFlops/dff/dff.runs/synth_1\vivado.jou
+# Running On: Gal-Elbaz-PC, OS: Windows, CPU Frequency: 2400 MHz, CPU Physical cores: 2, Host memory: 8501 MB
+#-----------------------------------------------------------
+source DFF_Test.tcl -notrace
